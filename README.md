@@ -9,6 +9,6 @@ apt install git
 <br>
 git clone https://github.com/4nzeL4/Bituro.git
 <br>
-cd Bituro-master
+cd Bituro
 <br>
 php bituro.php</p>
